@@ -1927,7 +1927,7 @@ a.ajax({
 type: "GET",
 crossDomain: !0,
 cache: !1,
-url: "https://tools.zenoradio.com/api/stations/u60k11meu0hvv/now_playing/?rand=" + Math.random(),
+url: "https://zenoplay.zenomedia.com/api/zenofm/nowplaying/qdqk79beu0hvv?_=1661556910587" + Math.random(),
 dataType: "json",
 async: !0,
 success: function(a) {
