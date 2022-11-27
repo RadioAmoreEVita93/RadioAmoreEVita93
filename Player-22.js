@@ -1927,7 +1927,7 @@ a.ajax({
 type: "GET",
 crossDomain: !0,
 cache: !1,
-url: "https://zenoplay.zenomedia.com/api/zenofm/nowplaying/6bdbnqwnsg8uv?_=1668773225657" + Math.random(),
+url:"https://zenoplay.zenomedia.com/api/zenofm/nowplaying/6bdbnqwnsg8uv?_=1668773225657" + Math.random(),
 dataType: "json",
 async: !0,
 success: function(a) {
