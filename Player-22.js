@@ -1927,7 +1927,7 @@ a.ajax({
 type: "GET",
 crossDomain: !0,
 cache: !1,
-url:"https://zenoplay.zenomedia.com/api/zenofm/nowplaying/6bdbnqwnsg8uv"+t+"?_="+new            
+url = "https://zenoplay.zenomedia.com/api/zenofm/nowplaying/6bdbnqwnsg8uv"
 dataType: "json",
 async: !0,
 success: function(a) {
